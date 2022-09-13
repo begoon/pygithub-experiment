@@ -6,6 +6,8 @@ Related blog posts:
 
 <https://medium.com/@ademin/github-as-a-database-73fa81e3cdcc>
 
+<https://demin.hashnode.dev/github-as-a-database>
+
 I needed a way to keep information about certain important events in my code nicely saved for later analysis. What can be better than committing them to a VCS?
 
 The little code below demonstrates how this approach works.
