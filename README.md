@@ -26,7 +26,7 @@ Execute it by:
 
 It prints something like:
 
-```json
+```
 {'content': ContentFile(path="README.md"), 'commit': Commit(sha="a6c540fec9b1b02e21acbb0ddd790efb6b7cb33f")}
 {'commit': Commit(sha="2436e7ff2692a9af398dabd9eb9d1eee0f821954"), 'content': ContentFile(path="README.md")}
 {'commit': Commit(sha="31fefb51e3510071777e4f4c8a0971de0a184f78"), 'content': NotSet}
